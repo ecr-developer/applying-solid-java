@@ -4,5 +4,7 @@
 
 Great, the company is growing.
 
+---
+
 Let's to apply the first principle: **Single Responsibility Principle** [(SRP)](../solid-java-srp/SRP.md)
 

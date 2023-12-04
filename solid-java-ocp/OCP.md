@@ -16,7 +16,7 @@ OCP promotes a more flexible and scalable codebase, making it easier to adapt to
  - Second: Create a new package called rule and with ReadjustValidation interface;
  - Thirdy: Create within rule package the PercentRuleValidation class;
  - Fourth: Create within rule package the PeriodicityRuleValidation class;
- - Sixth: Change readjustSalaryEmployee method for validate rules;
+ - Fiveth: Change readjustSalaryEmployee method for validate rules;
 
 ## Out of Scope:
 
@@ -27,3 +27,7 @@ This project will not have unit tests, because the aim is just to explain the pr
 ## Explanations: 
 - Extract the percent rule for to use interfaces, we gives for service the possibility create more rules validation in the future.
 - Until in this point we attend two rules business important (Percent and Periodicity);
+
+---
+
+Let's to apply the thirdy principle: **Liskov Substitution Principle** [(LSP)](../solid-java-lsp/LSP.md)

@@ -32,4 +32,6 @@ This project will not have unit tests, because the aim is just to explain the pr
 
 **`Attention:` Always run unit tests, it's great practice and guarantees the quality of your projects.**
 
+---
+
 Let's to apply the second principle: **Open/Closed Principle** [(OCP)](../solid-java-ocp/OCP.md)

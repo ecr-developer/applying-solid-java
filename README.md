@@ -28,7 +28,7 @@ We have a small company with a human resources department and a very old system.
 > - There are two ways in which an employee can receive a raise: by hitting targets or by promotion;
 > - The employee can only receive a new adjustment after 6 months;
 > - The adjustment has a limit of up to 40% of the salary, and cannot exceed this percentage;
-> - Now, the company also has outsourced professionals and needs to differentiate employee data;
+> - Now, the company also has third-party professionals and needs to differentiate employee data;
 
 *[Legacy project, current state](./solid-java-start/START.md)*
 
@@ -50,6 +50,8 @@ We have a small company with a human resources department and a very old system.
 
 > - **Idea:** Subtypes must be substitutable for their base types without altering the correctness of the program.
 > - **In a nutshell:** If it looks like a duck, quacks like a duck, it should behave like a duck.
+
+*[LSP project](./solid-java-lsp/LSP.md)*
 
 ## Interface Segregation Principle (ISP):
 
