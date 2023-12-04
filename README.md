@@ -30,17 +30,21 @@ We have a small company with a human resources department and a very old system.
 > - The adjustment has a limit of up to 40% of the salary, and cannot exceed this percentage;
 > - Now, the company also has outsourced professionals and needs to differentiate employee data;
 
-### [Legacy project, current state](solid-java-start/START.md)
+*[Legacy project, current state](./solid-java-start/START.md)*
 
 ## Single Responsibility Principle (SRP):
 
 > - **Idea:** A class should have only one reason to change, meaning it should have only one job or responsibility.
 > - **In a nutshell:** Do one thing, and do it well.
 
+*[SRP project](./solid-java-srp/SRP.md)*
+
 ## Open/Closed Principle (OCP):
 
 > - **Idea:** Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. You should be able to add new features without changing existing code.
 > - **In a nutshell:** Extend, don't modify.
+
+*[OCP project](./solid-java-ocp/OCP.md)*
 
 ## Liskov Substitution Principle (LSP):
 

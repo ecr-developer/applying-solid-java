@@ -1,4 +1,4 @@
-[Back to Index](../README.md#index) << | >> [Back to Project START](../solid-java-start/START.md)
+[Index](../README.md#index) > [START](../solid-java-start/START.md) > [SRP](../solid-java-srp/SRP.md)
 
 # Single Responsibility Principle (SRP)
 
@@ -31,3 +31,5 @@ For resolve this issue applying SRP principle, we'll to extract that method and 
 This project will not have unit tests, because the aim is just to explain the principles of SOLID.
 
 **`Attention:` Always run unit tests, it's great practice and guarantees the quality of your projects.**
+
+Let's to apply the second principle: **Open/Closed Principle** [(OCP)](../solid-java-ocp/OCP.md)
