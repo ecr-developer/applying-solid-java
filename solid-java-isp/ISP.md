@@ -37,3 +37,5 @@ This project will not have unit tests, because the aim is just to explain the pr
 As defined above, we have followed the interface segregation principle and have broken down our Readjust interface into two interfaces each representing a single tax operation.
 
 ---
+
+Let's to apply the fourth principle: **Dependency Inversion Principle** [(DIP)](../solid-java-dip/DIP.md)
