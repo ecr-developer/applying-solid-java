@@ -58,6 +58,8 @@ We have a small company with a human resources department and a very old system.
 > - **Idea:** A class should not be forced to implement interfaces it does not use. Clients should not be forced to depend on interfaces they do not use.
 > - **In a nutshell:** No client should be forced to depend on methods it does not use.
 
+*[ISP project](./solid-java-isp/ISP.md)*
+
 ## Dependency Inversion Principle (DIP):
 
 > - **Idea:** High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
