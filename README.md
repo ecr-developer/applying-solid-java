@@ -65,6 +65,8 @@ We have a small company with a human resources department and a very old system.
 > - **Idea:** High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
 > - **In a nutshell:** Depend on abstractions, not on concretions.
 
+*[DIP project](./solid-java-dip/DIP.md)*
+
 ## Create your project:
 
 ### - Create Parent Project:
