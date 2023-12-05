@@ -29,4 +29,7 @@ This project will not have unit tests, because the aim is just to explain the pr
 - We separate data that are commons between employee and third-party, without that need change other point of the code;
 - So far, we have complied with three more rules stated in the index;
 
+
 ---
+
+Let's to apply the fourth principle: **Interface Segregation Principle** [(ISP)](../solid-java-isp/ISP.md)
